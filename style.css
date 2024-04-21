@@ -1,37 +1,114 @@
 body{
     width: 99vw;
     height: 96vh;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family: 'Product Sans', sans-serif;
+}
+div{
+    background: rgba(255, 255, 255, 0);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    border: 1px solid rgba(255, 255, 255, 0);
+    top: 1.2%;
+
 }
 .ujiLtgzSYth4lbLhvahnVy617kTh50EBMduJs3a9VPyAw6fi7D95v8xPT2CyBBil{
     position: absolute;
-    top: 0;
-    color: chartreuse;
-    width: 30%;
-    height: 80%;
+    color:#717171;
+    width: 28.2%;
+    height: 97.5%;
+    padding-left: 1%;
+    .stars{
+        justify-content: space-between;
+        margin-left: 21%;
+        border-radius: 10px;
+        border-color:aquamarine;
+        width: 50%;
+        height: 5%;
+        .starimg{
+            margin-top:1%;
+            margin-left:2.54%;
+            width: 15%;
+            height: 80%;
+        }
+    }
+
 }
 .WNOxEhrVLhNZVXqRhoEFB7lic69hFyTu9gcqt1dp5IX9sFdx11ZJnY26EunzuNtv{
     position: absolute;
     margin-left: 30%;
-    top:0 ;
     color: chartreuse;
-    width: 30%;
+    width: 28.2%;
     height: 97.5%;
+    padding-left: 1%;
+    justify-content: center space-between;
+    gap: 10px;
+    .cJFR0R1y3aeaidiXU8RKY9ko8glMqeGgn9sYyKqYxRh8eg3UxJGLiCQB0B01AEcv{
+        background: rgba(255, 255, 255, 0);
+        border-radius: 6px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(9px);
+        -webkit-backdrop-filter: blur(9px);
+        border: 1px solid rgba(255, 255, 255, 0);
+        top: 20%;
+        width: 96%;
+        height: 10%;
+    }
 }
 .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW{
     position: absolute;
-    top: 0;
     margin-left: 60%;
     color: chartreuse;
-    width: 36.52%;
-    height: 50%;
-
+    width: 38%;
+    height: 48%;
+    padding-left: 1%;
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        margin-top: -22px;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
+    .active{
+        background-color: #717171;
+    }
+    .Om1sGFCLKkZ5FaoW5cIshuPdiIjdYB59j9VA7obenAFPk3AKVImEEA8R3azNjTce{
+        display: none;
+        height: 100%;
+        width: 100%;
+    }
+    .Om1sGFCLKkZ5FaoW5cIshuPdiIjdYB59j9VA7obenAFPk3AKVImEEA8R3azNjTce img{
+        height: 100%;
+        width: 100%; 
+        object-fit: contain; 
+    }
 }
 .TztIBcGfYevKW7LgVZVxK9VgvCwuvxVkPSAvC49c0mQZ0oo22JkuQaCO4hAaAxo2{
     position: absolute;
-    top: 50%;
+    top: 51%;
     margin-left: 60%;
     color: chartreuse;
-    width: 36.52%;
+    width: 39%;
     height: 47.5%;
-
+    display: flex;
+    justify-content: center;
+    .youtube-iframe{
+        width: 95%;
+        height:95%;
+        margin:1.5%;
+    }
 }
