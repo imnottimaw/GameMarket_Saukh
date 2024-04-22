@@ -21,6 +21,7 @@ div{
     width: 28.2%;
     height: 97.5%;
     padding-left: 1%;
+    justify-content: center;
     .stars{
         justify-content: space-between;
         margin-left: 21%;
@@ -65,7 +66,7 @@ div{
     width: 38%;
     height: 48%;
     padding-left: 1%;
-    .prev, .next {
+    .h9bnu13X452VfjN08kR8rAT5cpfxiMMxLSSxSsCp8NpkSfybvYoTJJNun39c0owb, .okl9OH8JADfdFPthwPpGlAwKELVYt7m4JAwfrkirrGQcZULuyOZDRteLoseCktcY {
         cursor: pointer;
         position: absolute;
         top: 50%;
@@ -79,12 +80,9 @@ div{
         border-radius: 0 3px 3px 0;
         user-select: none;
     }
-    .next {
+    .okl9OH8JADfdFPthwPpGlAwKELVYt7m4JAwfrkirrGQcZULuyOZDRteLoseCktcY {
         right: 0;
         border-radius: 3px 0 0 3px;
-    }
-    .active{
-        background-color: #717171;
     }
     .Om1sGFCLKkZ5FaoW5cIshuPdiIjdYB59j9VA7obenAFPk3AKVImEEA8R3azNjTce{
         display: none;
