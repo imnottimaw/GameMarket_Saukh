@@ -27,3 +27,6 @@ function eZdxBsJRgKQYxwtTznkWtuQrqcrezReYeQtEkqAbZHJLKrpTiZTFblywIpBhpEEx(){
 function lsvVjzasXMvWTiKwLhfSnSLvaruLCeuhznFxbzQyWHySfvaimqWhabTLHFPefGWy(zuo4lXiSoarWSAiwnO32m1zv3TKW0C290ckYItEDhGPZOOdtMmQGrOadj8a0xmzK){
   alert("Ваш відгук надіслано ("+zuo4lXiSoarWSAiwnO32m1zv3TKW0C290ckYItEDhGPZOOdtMmQGrOadj8a0xmzK+")")
 }
+function zEzwWHwsVFlRCFuOFxKUZzaFCeeiCteYBGaoAElxeYCcLsrCIFjhvxIrASHJJDTf(){
+    window.open("https://docs.google.com/document/d/1_6B1RKjsFyd8bUga1KR2minr_gO7V3T7JAti_PG_RVI","_blank").focus();
+}
