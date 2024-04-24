@@ -21,7 +21,9 @@ div{
     width: 28.2%;
     height: 97.5%;
     padding-left: 1%;
+    display: flex;
     justify-content: center;
+    flex-direction: column;
     .YEgwDZMUeoSSBquWOBpgixpqhFNFCuPtrJzvSvGkDKxxsWQlfpaopjdfWBYLGlKy{
         justify-content: space-between;
         margin-left: 21%;
@@ -45,7 +47,9 @@ div{
     width: 28.2%;
     height: 97.5%;
     padding-left: 1%;
+    display: flex;
     justify-content: center space-between;
+    flex-direction: column;
     gap: 10px;
     .cJFR0R1y3aeaidiXU8RKY9ko8glMqeGgn9sYyKqYxRh8eg3UxJGLiCQB0B01AEcv{
         background: rgba(255, 255, 255, 0);
@@ -70,6 +74,7 @@ div{
     width: 38%;
     height: 48%;
     padding-left: 1%;
+    justify-content: center;
     .h9bnu13X452VfjN08kR8rAT5cpfxiMMxLSSxSsCp8NpkSfybvYoTJJNun39c0owb, .okl9OH8JADfdFPthwPpGlAwKELVYt7m4JAwfrkirrGQcZULuyOZDRteLoseCktcY {
         cursor: pointer;
         position: absolute;
