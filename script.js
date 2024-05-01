@@ -30,3 +30,6 @@ function lsvVjzasXMvWTiKwLhfSnSLvaruLCeuhznFxbzQyWHySfvaimqWhabTLHFPefGWy(zuo4lX
 function zEzwWHwsVFlRCFuOFxKUZzaFCeeiCteYBGaoAElxeYCcLsrCIFjhvxIrASHJJDTf(){
     window.open("https://docs.google.com/document/d/1_6B1RKjsFyd8bUga1KR2minr_gO7V3T7JAti_PG_RVI","_blank").focus();
 }
+function IBLNQdmiIxJSzySUVnzUBOujdQsVBSXiVxSyXUxVzzRctPzPAqNSvMZxJSCZBEGE(){
+    window.location.href = "/market.html";
+}
